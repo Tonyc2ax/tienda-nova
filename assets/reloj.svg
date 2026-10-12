@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-label="Ilustración de reloj">
+    <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ece8de"/><stop offset="1" stop-color="#ddd1c4"/></linearGradient><linearGradient id="metal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fafcfd"/><stop offset="1" stop-color="#98acb9"/></linearGradient><linearGradient id="dark" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#3b5264"/><stop offset="1" stop-color="#102438"/></linearGradient><linearGradient id="peach" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f9d1b4"/><stop offset="1" stop-color="#d68b62"/></linearGradient><filter id="shadow" x="-45%" y="-45%" width="190%" height="190%"><feDropShadow dx="12" dy="22" stdDeviation="21" flood-color="#172e43" flood-opacity=".2"/></filter></defs>
+    <rect width="600" height="600" rx="36" fill="url(#bg)"/>
+    <circle cx="490" cy="115" r="190" fill="#ffffff" opacity=".19"/><circle cx="85" cy="530" r="180" fill="#ffffff" opacity=".13"/>
+    <ellipse cx="305" cy="493" rx="164" ry="25" fill="#243849" opacity=".09"/>
+    
+<g filter="url(#shadow)" transform="rotate(14 300 290)">
+<rect x="264" y="62" width="72" height="475" rx="26" fill="#a66e4a"/>
+<rect x="278" y="75" width="44" height="449" rx="16" fill="#c38e62"/><path d="M284 100h32 M284 125h32 M284 458h32 M284 484h32" stroke="#eec5a6" stroke-width="3" opacity=".7"/>
+<circle cx="300" cy="300" r="114" fill="#405365"/><circle cx="300" cy="300" r="102" fill="#dae2e3"/><circle cx="300" cy="300" r="91" fill="#f4f2eb"/>
+<g stroke="#b3a28c" stroke-width="3"><path d="M300 221v17M300 362v17M221 300h17M362 300h17"/></g>
+<path d="M300 300v-55M300 300l47 25" stroke="#273e50" stroke-width="9" stroke-linecap="round"/><circle cx="300" cy="300" r="9" fill="#bb805b"/><rect x="412" y="280" width="23" height="36" rx="6" fill="#7f8d98"/>
+</g>
+    </svg>

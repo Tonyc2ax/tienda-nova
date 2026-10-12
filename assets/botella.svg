@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-label="Ilustración de botella">
+    <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e5e5f1"/><stop offset="1" stop-color="#cfcede"/></linearGradient><linearGradient id="metal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fafcfd"/><stop offset="1" stop-color="#98acb9"/></linearGradient><linearGradient id="dark" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#3b5264"/><stop offset="1" stop-color="#102438"/></linearGradient><linearGradient id="peach" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f9d1b4"/><stop offset="1" stop-color="#d68b62"/></linearGradient><filter id="shadow" x="-45%" y="-45%" width="190%" height="190%"><feDropShadow dx="12" dy="22" stdDeviation="21" flood-color="#172e43" flood-opacity=".2"/></filter></defs>
+    <rect width="600" height="600" rx="36" fill="url(#bg)"/>
+    <circle cx="490" cy="115" r="190" fill="#ffffff" opacity=".19"/><circle cx="85" cy="530" r="180" fill="#ffffff" opacity=".13"/>
+    <ellipse cx="305" cy="493" rx="164" ry="25" fill="#243849" opacity=".09"/>
+    
+<g filter="url(#shadow)">
+<rect x="262" y="93" width="76" height="64" rx="12" fill="#8394a9"/>
+<rect x="270" y="94" width="60" height="30" rx="7" fill="#a9b7c6"/>
+<path d="M259 154h82c0 26 38 32 38 69v209c0 46-31 60-79 60s-79-14-79-60V223c0-37 38-43 38-69" fill="#8893bd"/>
+<path d="M270 170h60c0 25 31 36 31 58v202c0 33-19 46-61 46s-61-13-61-46V228c0-22 31-33 31-58" fill="#aeb8d3"/>
+<rect x="240" y="295" width="120" height="71" fill="#e2e0e8" opacity=".66"/><path d="M274 322h52M274 339h52" stroke="#8295ad" stroke-width="6" stroke-linecap="round"/>
+</g>
+    </svg>

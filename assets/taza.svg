@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-label="Ilustración de taza">
+    <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eee5dd"/><stop offset="1" stop-color="#e1d4c7"/></linearGradient><linearGradient id="metal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fafcfd"/><stop offset="1" stop-color="#98acb9"/></linearGradient><linearGradient id="dark" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#3b5264"/><stop offset="1" stop-color="#102438"/></linearGradient><linearGradient id="peach" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f9d1b4"/><stop offset="1" stop-color="#d68b62"/></linearGradient><filter id="shadow" x="-45%" y="-45%" width="190%" height="190%"><feDropShadow dx="12" dy="22" stdDeviation="21" flood-color="#172e43" flood-opacity=".2"/></filter></defs>
+    <rect width="600" height="600" rx="36" fill="url(#bg)"/>
+    <circle cx="490" cy="115" r="190" fill="#ffffff" opacity=".19"/><circle cx="85" cy="530" r="180" fill="#ffffff" opacity=".13"/>
+    <ellipse cx="305" cy="493" rx="164" ry="25" fill="#243849" opacity=".09"/>
+    
+<g filter="url(#shadow)">
+<path d="M203 220h201v178c0 59-42 93-101 93s-100-34-100-93z" fill="#c99a75"/>
+<path d="M220 227h167v168c0 50-33 78-84 78s-83-28-83-78z" fill="#e5b58d"/>
+<path d="M400 258h25c67 0 66 113-5 116h-20" fill="none" stroke="#bd8f6e" stroke-width="25"/>
+<ellipse cx="303" cy="221" rx="100" ry="22" fill="#f6dbbf"/><ellipse cx="303" cy="220" rx="82" ry="12" fill="#8c5b43"/>
+<path d="M268 169c-26-37 26-48 0-77M322 166c-28-39 31-52 4-83" fill="none" stroke="#e6b99f" stroke-width="11" stroke-linecap="round" opacity=".75"/>
+</g>
+    </svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-label="Ilustración de mochila">
+    <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f0e5d7"/><stop offset="1" stop-color="#e2d0ba"/></linearGradient><linearGradient id="metal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fafcfd"/><stop offset="1" stop-color="#98acb9"/></linearGradient><linearGradient id="dark" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#3b5264"/><stop offset="1" stop-color="#102438"/></linearGradient><linearGradient id="peach" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f9d1b4"/><stop offset="1" stop-color="#d68b62"/></linearGradient><filter id="shadow" x="-45%" y="-45%" width="190%" height="190%"><feDropShadow dx="12" dy="22" stdDeviation="21" flood-color="#172e43" flood-opacity=".2"/></filter></defs>
+    <rect width="600" height="600" rx="36" fill="url(#bg)"/>
+    <circle cx="490" cy="115" r="190" fill="#ffffff" opacity=".19"/><circle cx="85" cy="530" r="180" fill="#ffffff" opacity=".13"/>
+    <ellipse cx="305" cy="493" rx="164" ry="25" fill="#243849" opacity=".09"/>
+    
+<g filter="url(#shadow)"><path d="M228 204v-47c0-51 36-78 72-78s72 27 72 78v47" fill="none" stroke="#9b7058" stroke-width="35" stroke-linecap="round"/>
+<path d="M180 261c0-75 50-133 120-133s120 58 120 133v180c0 34-23 53-53 53H233c-30 0-53-19-53-53z" fill="#b87c55"/>
+<path d="M195 260c0-67 46-116 105-116s105 49 105 116v177c0 25-15 41-42 41H237c-27 0-42-16-42-41z" fill="#d49b70"/>
+<rect x="224" y="284" width="152" height="164" rx="28" fill="#ae724c"/><rect x="237" y="295" width="126" height="141" rx="20" fill="#c68d63"/>
+<path d="M238 318h124" stroke="#8f563d" stroke-width="10" stroke-linecap="round"/><path d="M297 312v33" stroke="#e8c49e" stroke-width="9" stroke-linecap="round"/>
+<path d="M184 266h-22v122h18M416 266h22v122h-18" stroke="#9f6a48" stroke-width="18" stroke-linecap="round" fill="none"/>
+</g>
+    </svg>

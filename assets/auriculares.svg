@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-label="Ilustración de auriculares">
+    <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e6eef1"/><stop offset="1" stop-color="#cedde3"/></linearGradient><linearGradient id="metal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fafcfd"/><stop offset="1" stop-color="#98acb9"/></linearGradient><linearGradient id="dark" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#3b5264"/><stop offset="1" stop-color="#102438"/></linearGradient><linearGradient id="peach" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f9d1b4"/><stop offset="1" stop-color="#d68b62"/></linearGradient><filter id="shadow" x="-45%" y="-45%" width="190%" height="190%"><feDropShadow dx="12" dy="22" stdDeviation="21" flood-color="#172e43" flood-opacity=".2"/></filter></defs>
+    <rect width="600" height="600" rx="36" fill="url(#bg)"/>
+    <circle cx="490" cy="115" r="190" fill="#ffffff" opacity=".19"/><circle cx="85" cy="530" r="180" fill="#ffffff" opacity=".13"/>
+    <ellipse cx="305" cy="493" rx="164" ry="25" fill="#243849" opacity=".09"/>
+    
+<g filter="url(#shadow)" transform="rotate(-12 300 300)">
+<path d="M183 320v-81c0-86 52-141 117-141s117 55 117 141v81" fill="none" stroke="#294054" stroke-width="62" stroke-linecap="round"/>
+<path d="M183 318v-78c0-87 52-142 117-142s117 55 117 142v78" fill="none" stroke="#4e6575" stroke-width="32" stroke-linecap="round"/>
+<path d="M204 328c-17-15-32-11-40 8v105c5 24 28 28 47 14l14-14V340z" fill="url(#dark)"/>
+<rect x="190" y="315" width="55" height="155" rx="25" fill="#1a3247"/><rect x="207" y="329" width="16" height="126" rx="8" fill="#6d8290" opacity=".38"/>
+<path d="M396 328c17-15 32-11 40 8v105c-5 24-28 28-47 14l-14-14V340z" fill="url(#dark)"/>
+<rect x="355" y="315" width="55" height="155" rx="25" fill="#1a3247"/><rect x="372" y="329" width="16" height="126" rx="8" fill="#6d8290" opacity=".38"/>
+</g>
+    </svg>
